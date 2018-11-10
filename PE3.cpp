@@ -6,8 +6,9 @@
 //  Copyright © 2018 Mason Fisher. All rights reserved.
 //
 
-#include "../../Classes/Validation.h"
-#include "../../Classes/OrderedListType.h"
+#include "Validation.h"
+#include "arrayListType.h"
+#include "OrderedListType.h"
 
 int main(){
     OrderedListType<int> list;
